@@ -1,0 +1,2 @@
+# servercfg
+server config file
